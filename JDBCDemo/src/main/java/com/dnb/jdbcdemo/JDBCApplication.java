@@ -13,6 +13,7 @@ public class JDBCApplication {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		System.out.println("Hi GITHUB");
 		Account account = new Account();
 		account.setAccountId("922");
 		account.setAccountHolderName("Divyasri");
