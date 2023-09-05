@@ -51,7 +51,6 @@ public class JDBCApplication {
 		case 4:
 			System.out.println("Exiting  ");
 			System.exit(0);
-		
 		}
 		
 		}
