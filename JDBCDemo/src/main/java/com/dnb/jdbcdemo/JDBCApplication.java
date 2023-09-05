@@ -20,7 +20,6 @@ public class JDBCApplication {
 		account.setAccountType("Savings");
 		account.setBalance(441.7f);
 		account.setContactNumber("8345");
-
 		account.setAddress("Santhoshima temple Malkajgiri");
 		account.setAccountCreatedDate(LocalDate.now());
 		account.setDob(LocalDate.of(2001, 9, 10));
@@ -52,6 +51,7 @@ public class JDBCApplication {
 		case 4:
 			System.out.println("Exiting  ");
 			System.exit(0);
+		
 		}
 		
 		}
